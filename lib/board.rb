@@ -11,21 +11,21 @@ row[1]
 row[2]
 
 # Position 4: Left 
-row[3]
+row1[0]
 
 # Position 5: Middle
-row[4]
+row1[1]
 
 # Position 6: Right 
-row[5]
+row1[2]
 
 # Position 7: Left 
-row[6]
+row2[0]
 
 # Position 8: Middle
-row[7]
+row2[1]
 
 # Position 9: Right 
-row[8]
+row2[2]
 
-board = [row[0], row[1], row[2], row[3], row[4], row[5], row[6], row[7], row[8]]
+board = [row[0], row[1], row[2], row1[0], row1[1], row1[2], row2[0], row2[1], row2[2]]
