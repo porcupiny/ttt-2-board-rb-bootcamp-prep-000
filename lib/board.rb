@@ -16,11 +16,20 @@ row[3]
 # Position 5: Middle
 row[4]
 
-# Position 3: Right 
+# Position 6: Right 
 row[5]
+
+# Position 7: Left 
+row[6]
+
+# Position 8: Middle
+row[7]
+
+# Position 9: Right 
+row[8]
 
 # Move X to the Position 2, Middle
 row[1] = "X"
 row #=> [" ", "X", " "]
 
-board = [row[0], row[1], row[2], row[3], row[4], row[5], row[6], row[7], row[8], row[9]]
+board = [row[0], row[1], row[2], row[3], row[4], row[5], row[6], row[7], row[8]]
